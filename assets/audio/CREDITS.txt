@@ -1,0 +1,17 @@
+All audio here is CC0 (public domain): https://creativecommons.org/publicdomain/zero/1.0/
+
+Sound effects, by Kenney (www.kenney.nl), converted to 44.1 kHz mono WAV:
+  tap.wav       Interface Sounds  pluck_001
+  blocked.wav   Interface Sounds  bong_001
+  clear.wav     Interface Sounds  glass_001
+  booster.wav   Interface Sounds  toggle_001
+  reward.wav    Interface Sounds  confirmation_002
+  button.wav    Interface Sounds  select_002 (peak lowered to -6 dB)
+  win.wav       Music Jingles     jingles_PIZZI02 (2.5 dB quieter)
+  lose.wav      Music Jingles     jingles_PIZZI07
+  https://kenney.nl/assets/interface-sounds
+  https://kenney.nl/assets/music-jingles
+
+Music, converted to AAC 96 kbps:
+  music.m4a     "Slow Stride" (loop) by isaiah658
+  https://opengameart.org/content/slow-stride

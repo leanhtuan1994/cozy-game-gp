@@ -1,0 +1,450 @@
+{
+  "id": "xe-banh-mi-10",
+  "chapter": "xe-banh-mi",
+  "seed": "xe-banh-mi-10~1",
+  "items": [
+    {
+      "id": "i0",
+      "kind": "do-chua",
+      "x": 322.5,
+      "y": 633.3,
+      "z": 0,
+      "scale": 1.023
+    },
+    {
+      "id": "i1",
+      "kind": "cha-lua",
+      "x": 479.2,
+      "y": 699.4,
+      "z": 0,
+      "scale": 1.032
+    },
+    {
+      "id": "i2",
+      "kind": "do-chua",
+      "x": 689.3,
+      "y": 513.6,
+      "z": 0,
+      "scale": 1.02
+    },
+    {
+      "id": "i3",
+      "kind": "cha-lua",
+      "x": 521.4,
+      "y": 486.5,
+      "z": 0,
+      "scale": 0.949
+    },
+    {
+      "id": "i4",
+      "kind": "tuong-ot",
+      "x": 436.3,
+      "y": 595.4,
+      "z": 0,
+      "scale": 1.034
+    },
+    {
+      "id": "i5",
+      "kind": "tuong-ot",
+      "x": 574.9,
+      "y": 618,
+      "z": 0,
+      "scale": 1.073
+    },
+    {
+      "id": "i6",
+      "kind": "trung-op-la",
+      "x": 573.3,
+      "y": 697.4,
+      "z": 0,
+      "scale": 0.932
+    },
+    {
+      "id": "i7",
+      "kind": "do-chua",
+      "x": 298,
+      "y": 506.4,
+      "z": 0,
+      "scale": 1.011
+    },
+    {
+      "id": "i8",
+      "kind": "do-chua",
+      "x": 214.6,
+      "y": 556,
+      "z": 0,
+      "scale": 1.024
+    },
+    {
+      "id": "i9",
+      "kind": "tuong-ot",
+      "x": 628.3,
+      "y": 498.4,
+      "z": 0,
+      "scale": 0.976
+    },
+    {
+      "id": "i10",
+      "kind": "trung-op-la",
+      "x": 771.2,
+      "y": 541.9,
+      "z": 0,
+      "scale": 0.931
+    },
+    {
+      "id": "i11",
+      "kind": "banh-mi",
+      "x": 424,
+      "y": 488.7,
+      "z": 0,
+      "scale": 0.948
+    },
+    {
+      "id": "i12",
+      "kind": "do-chua",
+      "x": 657.3,
+      "y": 593.7,
+      "z": 0,
+      "scale": 0.938
+    },
+    {
+      "id": "i13",
+      "kind": "banh-mi",
+      "x": 367.2,
+      "y": 669.8,
+      "z": 0,
+      "scale": 0.994
+    },
+    {
+      "id": "i14",
+      "kind": "cha-lua",
+      "x": 385.4,
+      "y": 511.7,
+      "z": 0,
+      "scale": 0.933
+    },
+    {
+      "id": "i15",
+      "kind": "banh-mi",
+      "x": 400.6,
+      "y": 565,
+      "z": 1,
+      "scale": 0.965
+    },
+    {
+      "id": "i16",
+      "kind": "do-chua",
+      "x": 522.4,
+      "y": 691.9,
+      "z": 1,
+      "scale": 1
+    },
+    {
+      "id": "i17",
+      "kind": "cha-lua",
+      "x": 378.6,
+      "y": 655.3,
+      "z": 1,
+      "scale": 1.03
+    },
+    {
+      "id": "i18",
+      "kind": "banh-mi",
+      "x": 632.6,
+      "y": 577.9,
+      "z": 1,
+      "scale": 1.029
+    },
+    {
+      "id": "i19",
+      "kind": "cha-lua",
+      "x": 700.8,
+      "y": 490.4,
+      "z": 1,
+      "scale": 0.939
+    },
+    {
+      "id": "i20",
+      "kind": "cha-lua",
+      "x": 822.3,
+      "y": 524.4,
+      "z": 1,
+      "scale": 0.935
+    },
+    {
+      "id": "i21",
+      "kind": "banh-mi",
+      "x": 263,
+      "y": 521,
+      "z": 1,
+      "scale": 1.007
+    },
+    {
+      "id": "i22",
+      "kind": "trung-op-la",
+      "x": 493.4,
+      "y": 557.6,
+      "z": 1,
+      "scale": 0.964
+    },
+    {
+      "id": "i23",
+      "kind": "tuong-ot",
+      "x": 585.4,
+      "y": 658.9,
+      "z": 1,
+      "scale": 1.04
+    },
+    {
+      "id": "i24",
+      "kind": "banh-mi",
+      "x": 543.6,
+      "y": 503.8,
+      "z": 1,
+      "scale": 0.998
+    },
+    {
+      "id": "i25",
+      "kind": "tuong-ot",
+      "x": 529.7,
+      "y": 671.4,
+      "z": 2,
+      "scale": 0.951
+    },
+    {
+      "id": "i26",
+      "kind": "trung-op-la",
+      "x": 464,
+      "y": 571.2,
+      "z": 2,
+      "scale": 0.923
+    },
+    {
+      "id": "i27",
+      "kind": "tuong-ot",
+      "x": 339.5,
+      "y": 501,
+      "z": 2,
+      "scale": 1.047
+    },
+    {
+      "id": "i28",
+      "kind": "trung-op-la",
+      "x": 655.8,
+      "y": 485.6,
+      "z": 2,
+      "scale": 0.938
+    },
+    {
+      "id": "i29",
+      "kind": "trung-op-la",
+      "x": 258,
+      "y": 596.9,
+      "z": 2,
+      "scale": 0.99
+    }
+  ],
+  "covers": [
+    {
+      "top": "i24",
+      "bottom": "i3"
+    },
+    {
+      "top": "i14",
+      "bottom": "i11"
+    },
+    {
+      "top": "i2",
+      "bottom": "i9"
+    },
+    {
+      "top": "i19",
+      "bottom": "i9"
+    },
+    {
+      "top": "i28",
+      "bottom": "i9"
+    },
+    {
+      "top": "i21",
+      "bottom": "i7"
+    },
+    {
+      "top": "i27",
+      "bottom": "i7"
+    },
+    {
+      "top": "i15",
+      "bottom": "i14"
+    },
+    {
+      "top": "i27",
+      "bottom": "i14"
+    },
+    {
+      "top": "i12",
+      "bottom": "i2"
+    },
+    {
+      "top": "i19",
+      "bottom": "i2"
+    },
+    {
+      "top": "i18",
+      "bottom": "i2"
+    },
+    {
+      "top": "i28",
+      "bottom": "i2"
+    },
+    {
+      "top": "i20",
+      "bottom": "i10"
+    },
+    {
+      "top": "i21",
+      "bottom": "i8"
+    },
+    {
+      "top": "i29",
+      "bottom": "i8"
+    },
+    {
+      "top": "i5",
+      "bottom": "i12"
+    },
+    {
+      "top": "i18",
+      "bottom": "i12"
+    },
+    {
+      "top": "i23",
+      "bottom": "i12"
+    },
+    {
+      "top": "i13",
+      "bottom": "i4"
+    },
+    {
+      "top": "i22",
+      "bottom": "i4"
+    },
+    {
+      "top": "i15",
+      "bottom": "i4"
+    },
+    {
+      "top": "i17",
+      "bottom": "i4"
+    },
+    {
+      "top": "i26",
+      "bottom": "i4"
+    },
+    {
+      "top": "i18",
+      "bottom": "i5"
+    },
+    {
+      "top": "i23",
+      "bottom": "i5"
+    },
+    {
+      "top": "i16",
+      "bottom": "i5"
+    },
+    {
+      "top": "i25",
+      "bottom": "i5"
+    },
+    {
+      "top": "i13",
+      "bottom": "i0"
+    },
+    {
+      "top": "i17",
+      "bottom": "i0"
+    },
+    {
+      "top": "i29",
+      "bottom": "i0"
+    },
+    {
+      "top": "i17",
+      "bottom": "i13"
+    },
+    {
+      "top": "i1",
+      "bottom": "i6"
+    },
+    {
+      "top": "i23",
+      "bottom": "i6"
+    },
+    {
+      "top": "i16",
+      "bottom": "i6"
+    },
+    {
+      "top": "i25",
+      "bottom": "i6"
+    },
+    {
+      "top": "i16",
+      "bottom": "i1"
+    },
+    {
+      "top": "i25",
+      "bottom": "i1"
+    },
+    {
+      "top": "i28",
+      "bottom": "i19"
+    },
+    {
+      "top": "i22",
+      "bottom": "i24"
+    },
+    {
+      "top": "i27",
+      "bottom": "i21"
+    },
+    {
+      "top": "i15",
+      "bottom": "i22"
+    },
+    {
+      "top": "i26",
+      "bottom": "i22"
+    },
+    {
+      "top": "i26",
+      "bottom": "i15"
+    },
+    {
+      "top": "i23",
+      "bottom": "i18"
+    },
+    {
+      "top": "i16",
+      "bottom": "i23"
+    },
+    {
+      "top": "i25",
+      "bottom": "i23"
+    },
+    {
+      "top": "i25",
+      "bottom": "i16"
+    }
+  ],
+  "traySize": 7,
+  "target": 0.55,
+  "metrics": {
+    "solutionLength": 30,
+    "maxTray": 7,
+    "nearFullSteps": 4,
+    "backtracks": 0,
+    "lossRate": 0.4
+  }
+}

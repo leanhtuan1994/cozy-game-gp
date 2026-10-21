@@ -1,0 +1,330 @@
+{
+  "id": "xe-banh-mi-07",
+  "chapter": "xe-banh-mi",
+  "seed": "xe-banh-mi-07",
+  "items": [
+    {
+      "id": "i0",
+      "kind": "cha-lua",
+      "x": 610.2,
+      "y": 551.3,
+      "z": 0,
+      "scale": 1.045
+    },
+    {
+      "id": "i1",
+      "kind": "banh-mi",
+      "x": 390.1,
+      "y": 537.1,
+      "z": 0,
+      "scale": 0.923
+    },
+    {
+      "id": "i2",
+      "kind": "ghe-nhua",
+      "x": 498.7,
+      "y": 657,
+      "z": 0,
+      "scale": 1.029
+    },
+    {
+      "id": "i3",
+      "kind": "cha-lua",
+      "x": 212.5,
+      "y": 534.6,
+      "z": 0,
+      "scale": 1.012
+    },
+    {
+      "id": "i4",
+      "kind": "cha-lua",
+      "x": 742.5,
+      "y": 575.8,
+      "z": 0,
+      "scale": 0.995
+    },
+    {
+      "id": "i5",
+      "kind": "do-chua",
+      "x": 374.6,
+      "y": 663,
+      "z": 0,
+      "scale": 1.009
+    },
+    {
+      "id": "i6",
+      "kind": "cha-lua",
+      "x": 482.4,
+      "y": 748.3,
+      "z": 0,
+      "scale": 0.967
+    },
+    {
+      "id": "i7",
+      "kind": "banh-mi",
+      "x": 292,
+      "y": 620.5,
+      "z": 0,
+      "scale": 0.934
+    },
+    {
+      "id": "i8",
+      "kind": "ghe-nhua",
+      "x": 606,
+      "y": 673.5,
+      "z": 0,
+      "scale": 0.982
+    },
+    {
+      "id": "i9",
+      "kind": "ghe-nhua",
+      "x": 499.3,
+      "y": 509.7,
+      "z": 0,
+      "scale": 0.975
+    },
+    {
+      "id": "i10",
+      "kind": "banh-mi",
+      "x": 298.4,
+      "y": 520.3,
+      "z": 0,
+      "scale": 1.013
+    },
+    {
+      "id": "i11",
+      "kind": "cha-lua",
+      "x": 717.2,
+      "y": 537.9,
+      "z": 0,
+      "scale": 0.951
+    },
+    {
+      "id": "i12",
+      "kind": "ghe-nhua",
+      "x": 575.3,
+      "y": 583.1,
+      "z": 0,
+      "scale": 0.932
+    },
+    {
+      "id": "i13",
+      "kind": "do-chua",
+      "x": 466.4,
+      "y": 631.7,
+      "z": 0,
+      "scale": 0.927
+    },
+    {
+      "id": "i14",
+      "kind": "do-chua",
+      "x": 673.1,
+      "y": 618.2,
+      "z": 0,
+      "scale": 1.011
+    },
+    {
+      "id": "i15",
+      "kind": "ghe-nhua",
+      "x": 377,
+      "y": 594.7,
+      "z": 0,
+      "scale": 0.938
+    },
+    {
+      "id": "i16",
+      "kind": "do-chua",
+      "x": 435,
+      "y": 709.7,
+      "z": 1,
+      "scale": 0.923
+    },
+    {
+      "id": "i17",
+      "kind": "banh-mi",
+      "x": 766.5,
+      "y": 519.6,
+      "z": 1,
+      "scale": 0.959
+    },
+    {
+      "id": "i18",
+      "kind": "do-chua",
+      "x": 478,
+      "y": 593,
+      "z": 1,
+      "scale": 0.964
+    },
+    {
+      "id": "i19",
+      "kind": "ghe-nhua",
+      "x": 630.5,
+      "y": 531.1,
+      "z": 1,
+      "scale": 0.969
+    },
+    {
+      "id": "i20",
+      "kind": "banh-mi",
+      "x": 357.7,
+      "y": 526,
+      "z": 1,
+      "scale": 0.994
+    },
+    {
+      "id": "i21",
+      "kind": "banh-mi",
+      "x": 573.4,
+      "y": 664.3,
+      "z": 1,
+      "scale": 0.95
+    },
+    {
+      "id": "i22",
+      "kind": "cha-lua",
+      "x": 482.9,
+      "y": 515.2,
+      "z": 1,
+      "scale": 0.97
+    },
+    {
+      "id": "i23",
+      "kind": "do-chua",
+      "x": 259.5,
+      "y": 598.8,
+      "z": 1,
+      "scale": 0.982
+    }
+  ],
+  "covers": [
+    {
+      "top": "i22",
+      "bottom": "i9"
+    },
+    {
+      "top": "i18",
+      "bottom": "i9"
+    },
+    {
+      "top": "i3",
+      "bottom": "i10"
+    },
+    {
+      "top": "i20",
+      "bottom": "i10"
+    },
+    {
+      "top": "i23",
+      "bottom": "i10"
+    },
+    {
+      "top": "i15",
+      "bottom": "i1"
+    },
+    {
+      "top": "i22",
+      "bottom": "i1"
+    },
+    {
+      "top": "i20",
+      "bottom": "i1"
+    },
+    {
+      "top": "i4",
+      "bottom": "i11"
+    },
+    {
+      "top": "i17",
+      "bottom": "i11"
+    },
+    {
+      "top": "i19",
+      "bottom": "i11"
+    },
+    {
+      "top": "i12",
+      "bottom": "i0"
+    },
+    {
+      "top": "i19",
+      "bottom": "i0"
+    },
+    {
+      "top": "i14",
+      "bottom": "i4"
+    },
+    {
+      "top": "i17",
+      "bottom": "i4"
+    },
+    {
+      "top": "i19",
+      "bottom": "i12"
+    },
+    {
+      "top": "i7",
+      "bottom": "i15"
+    },
+    {
+      "top": "i5",
+      "bottom": "i15"
+    },
+    {
+      "top": "i23",
+      "bottom": "i7"
+    },
+    {
+      "top": "i8",
+      "bottom": "i14"
+    },
+    {
+      "top": "i2",
+      "bottom": "i13"
+    },
+    {
+      "top": "i18",
+      "bottom": "i13"
+    },
+    {
+      "top": "i16",
+      "bottom": "i13"
+    },
+    {
+      "top": "i18",
+      "bottom": "i2"
+    },
+    {
+      "top": "i21",
+      "bottom": "i2"
+    },
+    {
+      "top": "i16",
+      "bottom": "i2"
+    },
+    {
+      "top": "i16",
+      "bottom": "i5"
+    },
+    {
+      "top": "i21",
+      "bottom": "i8"
+    },
+    {
+      "top": "i16",
+      "bottom": "i6"
+    },
+    {
+      "top": "i18",
+      "bottom": "i22"
+    }
+  ],
+  "traySize": 7,
+  "target": 0.367,
+  "metrics": {
+    "solutionLength": 24,
+    "maxTray": 3,
+    "nearFullSteps": 0,
+    "backtracks": 0,
+    "lossRate": 0.15
+  }
+}

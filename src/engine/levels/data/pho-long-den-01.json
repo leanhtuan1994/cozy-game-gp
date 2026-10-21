@@ -1,0 +1,162 @@
+{
+  "id": "pho-long-den-01",
+  "chapter": "pho-long-den",
+  "seed": "pho-long-den-01",
+  "items": [
+    {
+      "id": "i0",
+      "kind": "long-den-tron",
+      "x": 577.5,
+      "y": 622.6,
+      "z": 0,
+      "scale": 0.971
+    },
+    {
+      "id": "i1",
+      "kind": "long-den-tron",
+      "x": 227.6,
+      "y": 583.7,
+      "z": 0,
+      "scale": 0.94
+    },
+    {
+      "id": "i2",
+      "kind": "long-den-tron",
+      "x": 395.4,
+      "y": 612,
+      "z": 0,
+      "scale": 0.958
+    },
+    {
+      "id": "i3",
+      "kind": "trong-lac",
+      "x": 439.4,
+      "y": 724.5,
+      "z": 0,
+      "scale": 0.937
+    },
+    {
+      "id": "i4",
+      "kind": "den-ca-chep",
+      "x": 527.6,
+      "y": 558.7,
+      "z": 0,
+      "scale": 0.989
+    },
+    {
+      "id": "i5",
+      "kind": "trong-lac",
+      "x": 347.8,
+      "y": 659,
+      "z": 0,
+      "scale": 1.016
+    },
+    {
+      "id": "i6",
+      "kind": "den-keo-quan",
+      "x": 464.9,
+      "y": 649.1,
+      "z": 0,
+      "scale": 0.936
+    },
+    {
+      "id": "i7",
+      "kind": "den-ca-chep",
+      "x": 687.4,
+      "y": 643.2,
+      "z": 0,
+      "scale": 0.958
+    },
+    {
+      "id": "i8",
+      "kind": "trong-lac",
+      "x": 416,
+      "y": 592.2,
+      "z": 1,
+      "scale": 0.946
+    },
+    {
+      "id": "i9",
+      "kind": "den-keo-quan",
+      "x": 309.6,
+      "y": 635.6,
+      "z": 1,
+      "scale": 0.987
+    },
+    {
+      "id": "i10",
+      "kind": "den-ca-chep",
+      "x": 605.2,
+      "y": 656.6,
+      "z": 1,
+      "scale": 1.079
+    },
+    {
+      "id": "i11",
+      "kind": "den-keo-quan",
+      "x": 414.7,
+      "y": 699.5,
+      "z": 1,
+      "scale": 1.001
+    }
+  ],
+  "covers": [
+    {
+      "top": "i0",
+      "bottom": "i4"
+    },
+    {
+      "top": "i6",
+      "bottom": "i2"
+    },
+    {
+      "top": "i5",
+      "bottom": "i2"
+    },
+    {
+      "top": "i8",
+      "bottom": "i2"
+    },
+    {
+      "top": "i10",
+      "bottom": "i0"
+    },
+    {
+      "top": "i10",
+      "bottom": "i7"
+    },
+    {
+      "top": "i3",
+      "bottom": "i6"
+    },
+    {
+      "top": "i8",
+      "bottom": "i6"
+    },
+    {
+      "top": "i11",
+      "bottom": "i6"
+    },
+    {
+      "top": "i9",
+      "bottom": "i5"
+    },
+    {
+      "top": "i11",
+      "bottom": "i5"
+    },
+    {
+      "top": "i11",
+      "bottom": "i3"
+    }
+  ],
+  "traySize": 7,
+  "target": 0.18,
+  "metrics": {
+    "solutionLength": 12,
+    "maxTray": 7,
+    "nearFullSteps": 2,
+    "backtracks": 0,
+    "lossRate": 0.0875
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "id": "xe-banh-mi-05",
+  "chapter": "xe-banh-mi",
+  "seed": "xe-banh-mi-05",
+  "items": [
+    {
+      "id": "i0",
+      "kind": "tuong-ot",
+      "x": 603.2,
+      "y": 591.4,
+      "z": 0,
+      "scale": 0.982
+    },
+    {
+      "id": "i1",
+      "kind": "tuong-ot",
+      "x": 292.8,
+      "y": 580.5,
+      "z": 0,
+      "scale": 1.006
+    },
+    {
+      "id": "i2",
+      "kind": "cha-lua",
+      "x": 562.1,
+      "y": 694.2,
+      "z": 0,
+      "scale": 1.019
+    },
+    {
+      "id": "i3",
+      "kind": "banh-mi",
+      "x": 411.2,
+      "y": 554.8,
+      "z": 0,
+      "scale": 0.981
+    },
+    {
+      "id": "i4",
+      "kind": "tuong-ot",
+      "x": 433.8,
+      "y": 687.1,
+      "z": 0,
+      "scale": 0.999
+    },
+    {
+      "id": "i5",
+      "kind": "cha-lua",
+      "x": 722.3,
+      "y": 565.2,
+      "z": 0,
+      "scale": 1.007
+    },
+    {
+      "id": "i6",
+      "kind": "banh-mi",
+      "x": 769.4,
+      "y": 518.6,
+      "z": 0,
+      "scale": 0.948
+    },
+    {
+      "id": "i7",
+      "kind": "do-chua",
+      "x": 242.2,
+      "y": 525.7,
+      "z": 0,
+      "scale": 0.932
+    },
+    {
+      "id": "i8",
+      "kind": "cha-lua",
+      "x": 494.1,
+      "y": 558.2,
+      "z": 1,
+      "scale": 0.966
+    },
+    {
+      "id": "i9",
+      "kind": "banh-mi",
+      "x": 348.2,
+      "y": 522.7,
+      "z": 1,
+      "scale": 1.055
+    },
+    {
+      "id": "i10",
+      "kind": "do-chua",
+      "x": 504,
+      "y": 663.1,
+      "z": 1,
+      "scale": 1.002
+    },
+    {
+      "id": "i11",
+      "kind": "do-chua",
+      "x": 408.8,
+      "y": 667.3,
+      "z": 1,
+      "scale": 0.946
+    }
+  ],
+  "covers": [
+    {
+      "top": "i5",
+      "bottom": "i6"
+    },
+    {
+      "top": "i1",
+      "bottom": "i7"
+    },
+    {
+      "top": "i8",
+      "bottom": "i3"
+    },
+    {
+      "top": "i9",
+      "bottom": "i1"
+    },
+    {
+      "top": "i10",
+      "bottom": "i4"
+    },
+    {
+      "top": "i11",
+      "bottom": "i4"
+    },
+    {
+      "top": "i10",
+      "bottom": "i2"
+    }
+  ],
+  "traySize": 7,
+  "target": 0.244,
+  "metrics": {
+    "solutionLength": 12,
+    "maxTray": 6,
+    "nearFullSteps": 1,
+    "backtracks": 0,
+    "lossRate": 0.0625
+  }
+}

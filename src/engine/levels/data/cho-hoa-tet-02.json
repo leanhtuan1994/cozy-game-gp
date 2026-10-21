@@ -1,0 +1,98 @@
+{
+  "id": "cho-hoa-tet-02",
+  "chapter": "cho-hoa-tet",
+  "seed": "cho-hoa-tet-02",
+  "items": [
+    {
+      "id": "i0",
+      "kind": "banh-chung",
+      "x": 416.2,
+      "y": 621.8,
+      "z": 0,
+      "scale": 1.058
+    },
+    {
+      "id": "i1",
+      "kind": "li-xi",
+      "x": 546.1,
+      "y": 596.7,
+      "z": 0,
+      "scale": 1.038
+    },
+    {
+      "id": "i2",
+      "kind": "mai-vang",
+      "x": 630.1,
+      "y": 631.8,
+      "z": 0,
+      "scale": 1.022
+    },
+    {
+      "id": "i3",
+      "kind": "banh-chung",
+      "x": 429.6,
+      "y": 482.8,
+      "z": 0,
+      "scale": 1.029
+    },
+    {
+      "id": "i4",
+      "kind": "li-xi",
+      "x": 280.1,
+      "y": 538.7,
+      "z": 0,
+      "scale": 1.079
+    },
+    {
+      "id": "i5",
+      "kind": "mai-vang",
+      "x": 503.2,
+      "y": 722.8,
+      "z": 0,
+      "scale": 1.014
+    },
+    {
+      "id": "i6",
+      "kind": "banh-chung",
+      "x": 671.7,
+      "y": 540.5,
+      "z": 0,
+      "scale": 1.001
+    },
+    {
+      "id": "i7",
+      "kind": "li-xi",
+      "x": 589.9,
+      "y": 519.9,
+      "z": 0,
+      "scale": 0.994
+    },
+    {
+      "id": "i8",
+      "kind": "mai-vang",
+      "x": 352.8,
+      "y": 579.8,
+      "z": 0,
+      "scale": 1.011
+    }
+  ],
+  "covers": [
+    {
+      "top": "i1",
+      "bottom": "i7"
+    },
+    {
+      "top": "i0",
+      "bottom": "i8"
+    }
+  ],
+  "traySize": 7,
+  "target": 0.151,
+  "metrics": {
+    "solutionLength": 9,
+    "maxTray": 3,
+    "nearFullSteps": 0,
+    "backtracks": 0,
+    "lossRate": 0
+  }
+}

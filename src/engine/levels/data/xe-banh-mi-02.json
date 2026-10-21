@@ -1,0 +1,98 @@
+{
+  "id": "xe-banh-mi-02",
+  "chapter": "xe-banh-mi",
+  "seed": "xe-banh-mi-02",
+  "items": [
+    {
+      "id": "i0",
+      "kind": "ghe-nhua",
+      "x": 438.6,
+      "y": 548.3,
+      "z": 0,
+      "scale": 1.011
+    },
+    {
+      "id": "i1",
+      "kind": "ghe-nhua",
+      "x": 454.4,
+      "y": 721.9,
+      "z": 0,
+      "scale": 0.962
+    },
+    {
+      "id": "i2",
+      "kind": "banh-mi",
+      "x": 301.4,
+      "y": 590.2,
+      "z": 0,
+      "scale": 1.062
+    },
+    {
+      "id": "i3",
+      "kind": "trung-op-la",
+      "x": 558,
+      "y": 639.8,
+      "z": 0,
+      "scale": 0.926
+    },
+    {
+      "id": "i4",
+      "kind": "ghe-nhua",
+      "x": 594.5,
+      "y": 509.9,
+      "z": 0,
+      "scale": 0.959
+    },
+    {
+      "id": "i5",
+      "kind": "banh-mi",
+      "x": 285.5,
+      "y": 524.2,
+      "z": 0,
+      "scale": 0.956
+    },
+    {
+      "id": "i6",
+      "kind": "trung-op-la",
+      "x": 552.6,
+      "y": 573.8,
+      "z": 0,
+      "scale": 0.948
+    },
+    {
+      "id": "i7",
+      "kind": "banh-mi",
+      "x": 667.8,
+      "y": 554.1,
+      "z": 0,
+      "scale": 1.033
+    },
+    {
+      "id": "i8",
+      "kind": "trung-op-la",
+      "x": 764.7,
+      "y": 551.5,
+      "z": 0,
+      "scale": 1.058
+    }
+  ],
+  "covers": [
+    {
+      "top": "i6",
+      "bottom": "i4"
+    },
+    {
+      "top": "i7",
+      "bottom": "i8"
+    }
+  ],
+  "traySize": 7,
+  "target": 0.03,
+  "metrics": {
+    "solutionLength": 9,
+    "maxTray": 3,
+    "nearFullSteps": 0,
+    "backtracks": 0,
+    "lossRate": 0
+  }
+}

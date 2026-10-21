@@ -1,0 +1,138 @@
+{
+  "id": "cho-hoa-tet-03",
+  "chapter": "cho-hoa-tet",
+  "seed": "cho-hoa-tet-03",
+  "items": [
+    {
+      "id": "i0",
+      "kind": "hu-cu-kieu",
+      "x": 669.9,
+      "y": 574.9,
+      "z": 0,
+      "scale": 1.057
+    },
+    {
+      "id": "i1",
+      "kind": "hu-cu-kieu",
+      "x": 454.8,
+      "y": 492.2,
+      "z": 0,
+      "scale": 1.002
+    },
+    {
+      "id": "i2",
+      "kind": "mai-vang",
+      "x": 510.1,
+      "y": 638.7,
+      "z": 0,
+      "scale": 0.997
+    },
+    {
+      "id": "i3",
+      "kind": "hu-cu-kieu",
+      "x": 392.6,
+      "y": 637.6,
+      "z": 0,
+      "scale": 1.033
+    },
+    {
+      "id": "i4",
+      "kind": "banh-chung",
+      "x": 563.1,
+      "y": 516.7,
+      "z": 0,
+      "scale": 0.921
+    },
+    {
+      "id": "i5",
+      "kind": "mai-vang",
+      "x": 277.4,
+      "y": 517.5,
+      "z": 0,
+      "scale": 1.03
+    },
+    {
+      "id": "i6",
+      "kind": "banh-chung",
+      "x": 497.6,
+      "y": 722.6,
+      "z": 0,
+      "scale": 0.963
+    },
+    {
+      "id": "i7",
+      "kind": "li-xi",
+      "x": 578.2,
+      "y": 618.4,
+      "z": 0,
+      "scale": 0.928
+    },
+    {
+      "id": "i8",
+      "kind": "li-xi",
+      "x": 550.8,
+      "y": 630,
+      "z": 1,
+      "scale": 1.051
+    },
+    {
+      "id": "i9",
+      "kind": "mai-vang",
+      "x": 437,
+      "y": 547.1,
+      "z": 1,
+      "scale": 0.987
+    },
+    {
+      "id": "i10",
+      "kind": "li-xi",
+      "x": 223.8,
+      "y": 531.8,
+      "z": 1,
+      "scale": 1.043
+    },
+    {
+      "id": "i11",
+      "kind": "banh-chung",
+      "x": 675,
+      "y": 533.4,
+      "z": 1,
+      "scale": 0.934
+    }
+  ],
+  "covers": [
+    {
+      "top": "i9",
+      "bottom": "i1"
+    },
+    {
+      "top": "i10",
+      "bottom": "i5"
+    },
+    {
+      "top": "i11",
+      "bottom": "i0"
+    },
+    {
+      "top": "i2",
+      "bottom": "i7"
+    },
+    {
+      "top": "i8",
+      "bottom": "i7"
+    },
+    {
+      "top": "i8",
+      "bottom": "i2"
+    }
+  ],
+  "traySize": 7,
+  "target": 0.212,
+  "metrics": {
+    "solutionLength": 12,
+    "maxTray": 4,
+    "nearFullSteps": 0,
+    "backtracks": 0,
+    "lossRate": 0.05
+  }
+}

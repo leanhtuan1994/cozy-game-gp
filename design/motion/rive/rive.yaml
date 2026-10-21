@@ -1,0 +1,5 @@
+name: ghep_pho_motion
+main: Lanterns
+logs:
+  file: build/rive.log
+  problems: build/problems.log

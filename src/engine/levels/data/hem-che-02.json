@@ -1,0 +1,366 @@
+{
+  "id": "hem-che-02",
+  "chapter": "hem-che",
+  "seed": "hem-che-02",
+  "items": [
+    {
+      "id": "i0",
+      "kind": "banh-da-lon",
+      "x": 500.9,
+      "y": 640.8,
+      "z": 0,
+      "scale": 0.981
+    },
+    {
+      "id": "i1",
+      "kind": "che-ba-mau",
+      "x": 673.9,
+      "y": 606.8,
+      "z": 0,
+      "scale": 1.066
+    },
+    {
+      "id": "i2",
+      "kind": "banh-da-lon",
+      "x": 227.2,
+      "y": 518.4,
+      "z": 0,
+      "scale": 0.98
+    },
+    {
+      "id": "i3",
+      "kind": "banh-da-lon",
+      "x": 399,
+      "y": 512.5,
+      "z": 0,
+      "scale": 0.954
+    },
+    {
+      "id": "i4",
+      "kind": "che-ba-mau",
+      "x": 360,
+      "y": 617.6,
+      "z": 0,
+      "scale": 0.974
+    },
+    {
+      "id": "i5",
+      "kind": "che-ba-mau",
+      "x": 587.9,
+      "y": 519.8,
+      "z": 0,
+      "scale": 1.052
+    },
+    {
+      "id": "i6",
+      "kind": "dua-xiem",
+      "x": 482.3,
+      "y": 469.4,
+      "z": 0,
+      "scale": 1.039
+    },
+    {
+      "id": "i7",
+      "kind": "che-ba-mau",
+      "x": 694.6,
+      "y": 524.7,
+      "z": 0,
+      "scale": 1.057
+    },
+    {
+      "id": "i8",
+      "kind": "da-bao",
+      "x": 611.5,
+      "y": 655.5,
+      "z": 0,
+      "scale": 0.937
+    },
+    {
+      "id": "i9",
+      "kind": "dua-xiem",
+      "x": 300.2,
+      "y": 518.9,
+      "z": 0,
+      "scale": 0.974
+    },
+    {
+      "id": "i10",
+      "kind": "dua-xiem",
+      "x": 524.6,
+      "y": 553.6,
+      "z": 0,
+      "scale": 0.976
+    },
+    {
+      "id": "i11",
+      "kind": "da-bao",
+      "x": 542.9,
+      "y": 673,
+      "z": 0,
+      "scale": 0.947
+    },
+    {
+      "id": "i12",
+      "kind": "da-bao",
+      "x": 338.1,
+      "y": 479.7,
+      "z": 0,
+      "scale": 0.959
+    },
+    {
+      "id": "i13",
+      "kind": "da-bao",
+      "x": 438.9,
+      "y": 651,
+      "z": 0,
+      "scale": 0.956
+    },
+    {
+      "id": "i14",
+      "kind": "dua-xiem",
+      "x": 459,
+      "y": 546.6,
+      "z": 0,
+      "scale": 0.987
+    },
+    {
+      "id": "i15",
+      "kind": "banh-da-lon",
+      "x": 598.7,
+      "y": 702.6,
+      "z": 0,
+      "scale": 0.972
+    },
+    {
+      "id": "i16",
+      "kind": "dua-xiem",
+      "x": 704.9,
+      "y": 553.6,
+      "z": 1,
+      "scale": 0.974
+    },
+    {
+      "id": "i17",
+      "kind": "da-bao",
+      "x": 573.7,
+      "y": 638.9,
+      "z": 1,
+      "scale": 1.041
+    },
+    {
+      "id": "i18",
+      "kind": "banh-da-lon",
+      "x": 299.6,
+      "y": 559,
+      "z": 1,
+      "scale": 1.02
+    },
+    {
+      "id": "i19",
+      "kind": "che-ba-mau",
+      "x": 415.1,
+      "y": 582.5,
+      "z": 1,
+      "scale": 1.017
+    },
+    {
+      "id": "i20",
+      "kind": "da-bao",
+      "x": 510.9,
+      "y": 528.6,
+      "z": 1,
+      "scale": 0.973
+    },
+    {
+      "id": "i21",
+      "kind": "che-ba-mau",
+      "x": 427.6,
+      "y": 479.5,
+      "z": 1,
+      "scale": 0.932
+    },
+    {
+      "id": "i22",
+      "kind": "banh-da-lon",
+      "x": 641.7,
+      "y": 515.2,
+      "z": 1,
+      "scale": 1.016
+    },
+    {
+      "id": "i23",
+      "kind": "dua-xiem",
+      "x": 477.2,
+      "y": 689.2,
+      "z": 1,
+      "scale": 0.974
+    }
+  ],
+  "covers": [
+    {
+      "top": "i14",
+      "bottom": "i6"
+    },
+    {
+      "top": "i21",
+      "bottom": "i6"
+    },
+    {
+      "top": "i20",
+      "bottom": "i6"
+    },
+    {
+      "top": "i3",
+      "bottom": "i12"
+    },
+    {
+      "top": "i9",
+      "bottom": "i12"
+    },
+    {
+      "top": "i14",
+      "bottom": "i3"
+    },
+    {
+      "top": "i21",
+      "bottom": "i3"
+    },
+    {
+      "top": "i19",
+      "bottom": "i3"
+    },
+    {
+      "top": "i9",
+      "bottom": "i2"
+    },
+    {
+      "top": "i18",
+      "bottom": "i2"
+    },
+    {
+      "top": "i18",
+      "bottom": "i9"
+    },
+    {
+      "top": "i10",
+      "bottom": "i5"
+    },
+    {
+      "top": "i22",
+      "bottom": "i5"
+    },
+    {
+      "top": "i20",
+      "bottom": "i5"
+    },
+    {
+      "top": "i1",
+      "bottom": "i7"
+    },
+    {
+      "top": "i22",
+      "bottom": "i7"
+    },
+    {
+      "top": "i16",
+      "bottom": "i7"
+    },
+    {
+      "top": "i10",
+      "bottom": "i14"
+    },
+    {
+      "top": "i21",
+      "bottom": "i14"
+    },
+    {
+      "top": "i20",
+      "bottom": "i14"
+    },
+    {
+      "top": "i19",
+      "bottom": "i14"
+    },
+    {
+      "top": "i20",
+      "bottom": "i10"
+    },
+    {
+      "top": "i8",
+      "bottom": "i1"
+    },
+    {
+      "top": "i16",
+      "bottom": "i1"
+    },
+    {
+      "top": "i18",
+      "bottom": "i4"
+    },
+    {
+      "top": "i19",
+      "bottom": "i4"
+    },
+    {
+      "top": "i13",
+      "bottom": "i0"
+    },
+    {
+      "top": "i11",
+      "bottom": "i0"
+    },
+    {
+      "top": "i17",
+      "bottom": "i0"
+    },
+    {
+      "top": "i23",
+      "bottom": "i0"
+    },
+    {
+      "top": "i19",
+      "bottom": "i13"
+    },
+    {
+      "top": "i23",
+      "bottom": "i13"
+    },
+    {
+      "top": "i11",
+      "bottom": "i8"
+    },
+    {
+      "top": "i15",
+      "bottom": "i8"
+    },
+    {
+      "top": "i17",
+      "bottom": "i8"
+    },
+    {
+      "top": "i15",
+      "bottom": "i11"
+    },
+    {
+      "top": "i17",
+      "bottom": "i11"
+    },
+    {
+      "top": "i17",
+      "bottom": "i15"
+    },
+    {
+      "top": "i16",
+      "bottom": "i22"
+    }
+  ],
+  "traySize": 7,
+  "target": 0.421,
+  "metrics": {
+    "solutionLength": 24,
+    "maxTray": 5,
+    "nearFullSteps": 0,
+    "backtracks": 0,
+    "lossRate": 0.2125
+  }
+}

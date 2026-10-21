@@ -1,0 +1,130 @@
+{
+  "id": "xe-banh-mi-04",
+  "chapter": "xe-banh-mi",
+  "seed": "xe-banh-mi-04",
+  "items": [
+    {
+      "id": "i0",
+      "kind": "tuong-ot",
+      "x": 491,
+      "y": 571.3,
+      "z": 0,
+      "scale": 0.955
+    },
+    {
+      "id": "i1",
+      "kind": "do-chua",
+      "x": 591.6,
+      "y": 555,
+      "z": 0,
+      "scale": 1.049
+    },
+    {
+      "id": "i2",
+      "kind": "tuong-ot",
+      "x": 532.5,
+      "y": 714.3,
+      "z": 0,
+      "scale": 0.952
+    },
+    {
+      "id": "i3",
+      "kind": "cha-lua",
+      "x": 350.9,
+      "y": 553.9,
+      "z": 0,
+      "scale": 1.064
+    },
+    {
+      "id": "i4",
+      "kind": "do-chua",
+      "x": 390.8,
+      "y": 673.6,
+      "z": 0,
+      "scale": 1.032
+    },
+    {
+      "id": "i5",
+      "kind": "banh-mi",
+      "x": 691.9,
+      "y": 503.6,
+      "z": 0,
+      "scale": 1.079
+    },
+    {
+      "id": "i6",
+      "kind": "banh-mi",
+      "x": 208.1,
+      "y": 542.9,
+      "z": 0,
+      "scale": 0.943
+    },
+    {
+      "id": "i7",
+      "kind": "do-chua",
+      "x": 740.4,
+      "y": 578.4,
+      "z": 0,
+      "scale": 0.923
+    },
+    {
+      "id": "i8",
+      "kind": "cha-lua",
+      "x": 742.2,
+      "y": 583.5,
+      "z": 1,
+      "scale": 0.939
+    },
+    {
+      "id": "i9",
+      "kind": "tuong-ot",
+      "x": 366.6,
+      "y": 541.6,
+      "z": 1,
+      "scale": 0.938
+    },
+    {
+      "id": "i10",
+      "kind": "banh-mi",
+      "x": 619,
+      "y": 561.9,
+      "z": 1,
+      "scale": 0.934
+    },
+    {
+      "id": "i11",
+      "kind": "cha-lua",
+      "x": 503.8,
+      "y": 651.1,
+      "z": 1,
+      "scale": 0.998
+    }
+  ],
+  "covers": [
+    {
+      "top": "i10",
+      "bottom": "i5"
+    },
+    {
+      "top": "i10",
+      "bottom": "i1"
+    },
+    {
+      "top": "i9",
+      "bottom": "i3"
+    },
+    {
+      "top": "i8",
+      "bottom": "i7"
+    }
+  ],
+  "traySize": 7,
+  "target": 0.183,
+  "metrics": {
+    "solutionLength": 12,
+    "maxTray": 3,
+    "nearFullSteps": 0,
+    "backtracks": 0,
+    "lossRate": 0.025
+  }
+}

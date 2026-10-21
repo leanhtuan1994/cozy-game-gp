@@ -1,0 +1,822 @@
+{
+  "id": "cho-dem-06",
+  "chapter": "cho-dem",
+  "seed": "cho-dem-06",
+  "items": [
+    {
+      "id": "i0",
+      "kind": "muc-kho",
+      "x": 315.3,
+      "y": 617.9,
+      "z": 0,
+      "scale": 1.056
+    },
+    {
+      "id": "i1",
+      "kind": "muc-kho",
+      "x": 482.6,
+      "y": 735.6,
+      "z": 0,
+      "scale": 1.039
+    },
+    {
+      "id": "i2",
+      "kind": "muc-kho",
+      "x": 677.9,
+      "y": 626.3,
+      "z": 0,
+      "scale": 1.024
+    },
+    {
+      "id": "i3",
+      "kind": "xien-nuong",
+      "x": 513.1,
+      "y": 569.4,
+      "z": 0,
+      "scale": 1.052
+    },
+    {
+      "id": "i4",
+      "kind": "bap-nuong",
+      "x": 809.6,
+      "y": 570.1,
+      "z": 0,
+      "scale": 0.943
+    },
+    {
+      "id": "i5",
+      "kind": "bong-bay",
+      "x": 642.5,
+      "y": 516.2,
+      "z": 0,
+      "scale": 0.971
+    },
+    {
+      "id": "i6",
+      "kind": "bong-bay",
+      "x": 589.3,
+      "y": 689,
+      "z": 0,
+      "scale": 0.96
+    },
+    {
+      "id": "i7",
+      "kind": "xien-nuong",
+      "x": 260.1,
+      "y": 529.9,
+      "z": 0,
+      "scale": 0.968
+    },
+    {
+      "id": "i8",
+      "kind": "muc-kho",
+      "x": 437.1,
+      "y": 635.9,
+      "z": 0,
+      "scale": 1.059
+    },
+    {
+      "id": "i9",
+      "kind": "xien-nuong",
+      "x": 407,
+      "y": 497.9,
+      "z": 0,
+      "scale": 1.042
+    },
+    {
+      "id": "i10",
+      "kind": "muc-kho",
+      "x": 716.8,
+      "y": 532.3,
+      "z": 0,
+      "scale": 0.982
+    },
+    {
+      "id": "i11",
+      "kind": "bap-nuong",
+      "x": 518.7,
+      "y": 479.8,
+      "z": 0,
+      "scale": 0.939
+    },
+    {
+      "id": "i12",
+      "kind": "bong-bay",
+      "x": 572.1,
+      "y": 536.5,
+      "z": 0,
+      "scale": 0.951
+    },
+    {
+      "id": "i13",
+      "kind": "muc-kho",
+      "x": 364.8,
+      "y": 672.3,
+      "z": 0,
+      "scale": 1.026
+    },
+    {
+      "id": "i14",
+      "kind": "bap-nuong",
+      "x": 418.3,
+      "y": 537.7,
+      "z": 0,
+      "scale": 0.923
+    },
+    {
+      "id": "i15",
+      "kind": "xien-nuong",
+      "x": 614.1,
+      "y": 665.6,
+      "z": 0,
+      "scale": 1.053
+    },
+    {
+      "id": "i16",
+      "kind": "bong-bay",
+      "x": 204.8,
+      "y": 558.4,
+      "z": 0,
+      "scale": 0.994
+    },
+    {
+      "id": "i17",
+      "kind": "bong-bay",
+      "x": 499.8,
+      "y": 769.5,
+      "z": 0,
+      "scale": 1.034
+    },
+    {
+      "id": "i18",
+      "kind": "banh-trang-nuong",
+      "x": 312.2,
+      "y": 548.9,
+      "z": 0,
+      "scale": 0.976
+    },
+    {
+      "id": "i19",
+      "kind": "banh-trang-nuong",
+      "x": 487.8,
+      "y": 633,
+      "z": 0,
+      "scale": 0.979
+    },
+    {
+      "id": "i20",
+      "kind": "bap-nuong",
+      "x": 730.6,
+      "y": 518.1,
+      "z": 0,
+      "scale": 0.95
+    },
+    {
+      "id": "i21",
+      "kind": "bong-bay",
+      "x": 577.1,
+      "y": 494.3,
+      "z": 0,
+      "scale": 0.952
+    },
+    {
+      "id": "i22",
+      "kind": "muc-kho",
+      "x": 606.3,
+      "y": 618.9,
+      "z": 0,
+      "scale": 0.937
+    },
+    {
+      "id": "i23",
+      "kind": "bong-bay",
+      "x": 361,
+      "y": 589.6,
+      "z": 1,
+      "scale": 1.066
+    },
+    {
+      "id": "i24",
+      "kind": "banh-trang-nuong",
+      "x": 682.3,
+      "y": 642.3,
+      "z": 1,
+      "scale": 1.06
+    },
+    {
+      "id": "i25",
+      "kind": "banh-trang-nuong",
+      "x": 449.2,
+      "y": 755.8,
+      "z": 1,
+      "scale": 0.923
+    },
+    {
+      "id": "i26",
+      "kind": "xien-nuong",
+      "x": 608,
+      "y": 495.5,
+      "z": 1,
+      "scale": 1.047
+    },
+    {
+      "id": "i27",
+      "kind": "banh-trang-nuong",
+      "x": 473.1,
+      "y": 503,
+      "z": 1,
+      "scale": 0.964
+    },
+    {
+      "id": "i28",
+      "kind": "banh-trang-nuong",
+      "x": 568.8,
+      "y": 637.2,
+      "z": 1,
+      "scale": 0.974
+    },
+    {
+      "id": "i29",
+      "kind": "banh-trang-nuong",
+      "x": 229,
+      "y": 529.7,
+      "z": 1,
+      "scale": 1.046
+    },
+    {
+      "id": "i30",
+      "kind": "xien-nuong",
+      "x": 789.6,
+      "y": 573.7,
+      "z": 1,
+      "scale": 0.958
+    },
+    {
+      "id": "i31",
+      "kind": "muc-kho",
+      "x": 421.2,
+      "y": 660.1,
+      "z": 1,
+      "scale": 0.99
+    },
+    {
+      "id": "i32",
+      "kind": "banh-trang-nuong",
+      "x": 357.4,
+      "y": 489.5,
+      "z": 1,
+      "scale": 0.926
+    },
+    {
+      "id": "i33",
+      "kind": "bap-nuong",
+      "x": 522.8,
+      "y": 555.1,
+      "z": 1,
+      "scale": 1.012
+    },
+    {
+      "id": "i34",
+      "kind": "bap-nuong",
+      "x": 698.2,
+      "y": 487.9,
+      "z": 1,
+      "scale": 1.056
+    },
+    {
+      "id": "i35",
+      "kind": "bap-nuong",
+      "x": 561.1,
+      "y": 736.2,
+      "z": 1,
+      "scale": 0.956
+    },
+    {
+      "id": "i36",
+      "kind": "bap-nuong",
+      "x": 344.2,
+      "y": 647.4,
+      "z": 1,
+      "scale": 0.939
+    },
+    {
+      "id": "i37",
+      "kind": "bong-bay",
+      "x": 741.4,
+      "y": 587.2,
+      "z": 1,
+      "scale": 0.933
+    },
+    {
+      "id": "i38",
+      "kind": "xien-nuong",
+      "x": 455.5,
+      "y": 713.3,
+      "z": 2,
+      "scale": 0.956
+    },
+    {
+      "id": "i39",
+      "kind": "xien-nuong",
+      "x": 419.2,
+      "y": 518.8,
+      "z": 2,
+      "scale": 1.036
+    },
+    {
+      "id": "i40",
+      "kind": "xien-nuong",
+      "x": 668.6,
+      "y": 600.2,
+      "z": 2,
+      "scale": 1.022
+    },
+    {
+      "id": "i41",
+      "kind": "bong-bay",
+      "x": 277.1,
+      "y": 507.2,
+      "z": 2,
+      "scale": 1.067
+    },
+    {
+      "id": "i42",
+      "kind": "muc-kho",
+      "x": 518,
+      "y": 634.9,
+      "z": 2,
+      "scale": 0.924
+    },
+    {
+      "id": "i43",
+      "kind": "bap-nuong",
+      "x": 516.1,
+      "y": 530.3,
+      "z": 2,
+      "scale": 0.973
+    },
+    {
+      "id": "i44",
+      "kind": "banh-trang-nuong",
+      "x": 299,
+      "y": 615,
+      "z": 2,
+      "scale": 1.052
+    }
+  ],
+  "covers": [
+    {
+      "top": "i21",
+      "bottom": "i11"
+    },
+    {
+      "top": "i12",
+      "bottom": "i11"
+    },
+    {
+      "top": "i27",
+      "bottom": "i11"
+    },
+    {
+      "top": "i33",
+      "bottom": "i11"
+    },
+    {
+      "top": "i43",
+      "bottom": "i11"
+    },
+    {
+      "top": "i5",
+      "bottom": "i21"
+    },
+    {
+      "top": "i12",
+      "bottom": "i21"
+    },
+    {
+      "top": "i26",
+      "bottom": "i21"
+    },
+    {
+      "top": "i43",
+      "bottom": "i21"
+    },
+    {
+      "top": "i14",
+      "bottom": "i9"
+    },
+    {
+      "top": "i32",
+      "bottom": "i9"
+    },
+    {
+      "top": "i27",
+      "bottom": "i9"
+    },
+    {
+      "top": "i23",
+      "bottom": "i9"
+    },
+    {
+      "top": "i39",
+      "bottom": "i9"
+    },
+    {
+      "top": "i5",
+      "bottom": "i20"
+    },
+    {
+      "top": "i10",
+      "bottom": "i20"
+    },
+    {
+      "top": "i34",
+      "bottom": "i20"
+    },
+    {
+      "top": "i37",
+      "bottom": "i20"
+    },
+    {
+      "top": "i12",
+      "bottom": "i5"
+    },
+    {
+      "top": "i34",
+      "bottom": "i5"
+    },
+    {
+      "top": "i26",
+      "bottom": "i5"
+    },
+    {
+      "top": "i18",
+      "bottom": "i7"
+    },
+    {
+      "top": "i16",
+      "bottom": "i7"
+    },
+    {
+      "top": "i29",
+      "bottom": "i7"
+    },
+    {
+      "top": "i41",
+      "bottom": "i7"
+    },
+    {
+      "top": "i2",
+      "bottom": "i10"
+    },
+    {
+      "top": "i34",
+      "bottom": "i10"
+    },
+    {
+      "top": "i37",
+      "bottom": "i10"
+    },
+    {
+      "top": "i40",
+      "bottom": "i10"
+    },
+    {
+      "top": "i32",
+      "bottom": "i14"
+    },
+    {
+      "top": "i27",
+      "bottom": "i14"
+    },
+    {
+      "top": "i23",
+      "bottom": "i14"
+    },
+    {
+      "top": "i39",
+      "bottom": "i14"
+    },
+    {
+      "top": "i3",
+      "bottom": "i12"
+    },
+    {
+      "top": "i26",
+      "bottom": "i12"
+    },
+    {
+      "top": "i33",
+      "bottom": "i12"
+    },
+    {
+      "top": "i43",
+      "bottom": "i12"
+    },
+    {
+      "top": "i0",
+      "bottom": "i18"
+    },
+    {
+      "top": "i32",
+      "bottom": "i18"
+    },
+    {
+      "top": "i29",
+      "bottom": "i18"
+    },
+    {
+      "top": "i23",
+      "bottom": "i18"
+    },
+    {
+      "top": "i41",
+      "bottom": "i18"
+    },
+    {
+      "top": "i44",
+      "bottom": "i18"
+    },
+    {
+      "top": "i29",
+      "bottom": "i16"
+    },
+    {
+      "top": "i41",
+      "bottom": "i16"
+    },
+    {
+      "top": "i30",
+      "bottom": "i4"
+    },
+    {
+      "top": "i37",
+      "bottom": "i4"
+    },
+    {
+      "top": "i19",
+      "bottom": "i3"
+    },
+    {
+      "top": "i8",
+      "bottom": "i3"
+    },
+    {
+      "top": "i27",
+      "bottom": "i3"
+    },
+    {
+      "top": "i33",
+      "bottom": "i3"
+    },
+    {
+      "top": "i43",
+      "bottom": "i3"
+    },
+    {
+      "top": "i42",
+      "bottom": "i3"
+    },
+    {
+      "top": "i15",
+      "bottom": "i22"
+    },
+    {
+      "top": "i6",
+      "bottom": "i22"
+    },
+    {
+      "top": "i28",
+      "bottom": "i22"
+    },
+    {
+      "top": "i24",
+      "bottom": "i22"
+    },
+    {
+      "top": "i40",
+      "bottom": "i22"
+    },
+    {
+      "top": "i23",
+      "bottom": "i0"
+    },
+    {
+      "top": "i36",
+      "bottom": "i0"
+    },
+    {
+      "top": "i44",
+      "bottom": "i0"
+    },
+    {
+      "top": "i15",
+      "bottom": "i2"
+    },
+    {
+      "top": "i37",
+      "bottom": "i2"
+    },
+    {
+      "top": "i24",
+      "bottom": "i2"
+    },
+    {
+      "top": "i40",
+      "bottom": "i2"
+    },
+    {
+      "top": "i8",
+      "bottom": "i19"
+    },
+    {
+      "top": "i33",
+      "bottom": "i19"
+    },
+    {
+      "top": "i28",
+      "bottom": "i19"
+    },
+    {
+      "top": "i31",
+      "bottom": "i19"
+    },
+    {
+      "top": "i42",
+      "bottom": "i19"
+    },
+    {
+      "top": "i38",
+      "bottom": "i19"
+    },
+    {
+      "top": "i13",
+      "bottom": "i8"
+    },
+    {
+      "top": "i36",
+      "bottom": "i8"
+    },
+    {
+      "top": "i31",
+      "bottom": "i8"
+    },
+    {
+      "top": "i6",
+      "bottom": "i15"
+    },
+    {
+      "top": "i28",
+      "bottom": "i15"
+    },
+    {
+      "top": "i24",
+      "bottom": "i15"
+    },
+    {
+      "top": "i35",
+      "bottom": "i15"
+    },
+    {
+      "top": "i40",
+      "bottom": "i15"
+    },
+    {
+      "top": "i23",
+      "bottom": "i13"
+    },
+    {
+      "top": "i36",
+      "bottom": "i13"
+    },
+    {
+      "top": "i31",
+      "bottom": "i13"
+    },
+    {
+      "top": "i28",
+      "bottom": "i6"
+    },
+    {
+      "top": "i35",
+      "bottom": "i6"
+    },
+    {
+      "top": "i17",
+      "bottom": "i1"
+    },
+    {
+      "top": "i35",
+      "bottom": "i1"
+    },
+    {
+      "top": "i25",
+      "bottom": "i1"
+    },
+    {
+      "top": "i38",
+      "bottom": "i1"
+    },
+    {
+      "top": "i35",
+      "bottom": "i17"
+    },
+    {
+      "top": "i25",
+      "bottom": "i17"
+    },
+    {
+      "top": "i38",
+      "bottom": "i17"
+    },
+    {
+      "top": "i41",
+      "bottom": "i32"
+    },
+    {
+      "top": "i39",
+      "bottom": "i32"
+    },
+    {
+      "top": "i26",
+      "bottom": "i34"
+    },
+    {
+      "top": "i33",
+      "bottom": "i27"
+    },
+    {
+      "top": "i39",
+      "bottom": "i27"
+    },
+    {
+      "top": "i43",
+      "bottom": "i27"
+    },
+    {
+      "top": "i41",
+      "bottom": "i29"
+    },
+    {
+      "top": "i43",
+      "bottom": "i33"
+    },
+    {
+      "top": "i42",
+      "bottom": "i33"
+    },
+    {
+      "top": "i37",
+      "bottom": "i30"
+    },
+    {
+      "top": "i24",
+      "bottom": "i37"
+    },
+    {
+      "top": "i40",
+      "bottom": "i37"
+    },
+    {
+      "top": "i36",
+      "bottom": "i23"
+    },
+    {
+      "top": "i39",
+      "bottom": "i23"
+    },
+    {
+      "top": "i44",
+      "bottom": "i23"
+    },
+    {
+      "top": "i42",
+      "bottom": "i28"
+    },
+    {
+      "top": "i44",
+      "bottom": "i36"
+    },
+    {
+      "top": "i40",
+      "bottom": "i24"
+    },
+    {
+      "top": "i38",
+      "bottom": "i25"
+    },
+    {
+      "top": "i38",
+      "bottom": "i42"
+    }
+  ],
+  "traySize": 7,
+  "target": 0.756,
+  "metrics": {
+    "solutionLength": 45,
+    "maxTray": 5,
+    "nearFullSteps": 0,
+    "backtracks": 0,
+    "lossRate": 0.4375
+  }
+}

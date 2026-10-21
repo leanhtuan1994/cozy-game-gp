@@ -1,0 +1,406 @@
+{
+  "id": "pho-long-den-06",
+  "chapter": "pho-long-den",
+  "seed": "pho-long-den-06",
+  "items": [
+    {
+      "id": "i0",
+      "kind": "mat-na",
+      "x": 648.7,
+      "y": 653.5,
+      "z": 0,
+      "scale": 1.037
+    },
+    {
+      "id": "i1",
+      "kind": "den-ca-chep",
+      "x": 331,
+      "y": 633.9,
+      "z": 0,
+      "scale": 0.938
+    },
+    {
+      "id": "i2",
+      "kind": "den-ca-chep",
+      "x": 524,
+      "y": 704.2,
+      "z": 0,
+      "scale": 0.972
+    },
+    {
+      "id": "i3",
+      "kind": "long-den-tron",
+      "x": 428.7,
+      "y": 597.8,
+      "z": 0,
+      "scale": 1.08
+    },
+    {
+      "id": "i4",
+      "kind": "trong-lac",
+      "x": 258.9,
+      "y": 595,
+      "z": 0,
+      "scale": 1.064
+    },
+    {
+      "id": "i5",
+      "kind": "den-ca-chep",
+      "x": 611.5,
+      "y": 587.9,
+      "z": 0,
+      "scale": 1.021
+    },
+    {
+      "id": "i6",
+      "kind": "mat-na",
+      "x": 401.8,
+      "y": 670.3,
+      "z": 0,
+      "scale": 0.976
+    },
+    {
+      "id": "i7",
+      "kind": "long-den-tron",
+      "x": 493.8,
+      "y": 629.3,
+      "z": 0,
+      "scale": 0.93
+    },
+    {
+      "id": "i8",
+      "kind": "mat-na",
+      "x": 535.4,
+      "y": 733.8,
+      "z": 0,
+      "scale": 0.933
+    },
+    {
+      "id": "i9",
+      "kind": "trong-lac",
+      "x": 539.3,
+      "y": 589.3,
+      "z": 0,
+      "scale": 1.012
+    },
+    {
+      "id": "i10",
+      "kind": "long-den-tron",
+      "x": 368.6,
+      "y": 615.5,
+      "z": 0,
+      "scale": 0.947
+    },
+    {
+      "id": "i11",
+      "kind": "mat-na",
+      "x": 728.7,
+      "y": 608.7,
+      "z": 0,
+      "scale": 0.996
+    },
+    {
+      "id": "i12",
+      "kind": "trong-lac",
+      "x": 464,
+      "y": 734.8,
+      "z": 0,
+      "scale": 0.943
+    },
+    {
+      "id": "i13",
+      "kind": "trong-lac",
+      "x": 527.4,
+      "y": 565.4,
+      "z": 0,
+      "scale": 0.966
+    },
+    {
+      "id": "i14",
+      "kind": "den-ca-chep",
+      "x": 723.3,
+      "y": 617.2,
+      "z": 0,
+      "scale": 0.958
+    },
+    {
+      "id": "i15",
+      "kind": "trong-lac",
+      "x": 425.8,
+      "y": 561.7,
+      "z": 0,
+      "scale": 0.96
+    },
+    {
+      "id": "i16",
+      "kind": "mat-na",
+      "x": 501.3,
+      "y": 570.4,
+      "z": 1,
+      "scale": 1.068
+    },
+    {
+      "id": "i17",
+      "kind": "trong-lac",
+      "x": 243.2,
+      "y": 584.4,
+      "z": 1,
+      "scale": 0.922
+    },
+    {
+      "id": "i18",
+      "kind": "den-ca-chep",
+      "x": 533.5,
+      "y": 723,
+      "z": 1,
+      "scale": 1.043
+    },
+    {
+      "id": "i19",
+      "kind": "long-den-tron",
+      "x": 610.1,
+      "y": 588,
+      "z": 1,
+      "scale": 0.935
+    },
+    {
+      "id": "i20",
+      "kind": "long-den-tron",
+      "x": 358.7,
+      "y": 575,
+      "z": 1,
+      "scale": 0.935
+    },
+    {
+      "id": "i21",
+      "kind": "long-den-tron",
+      "x": 475.3,
+      "y": 678.5,
+      "z": 1,
+      "scale": 0.985
+    },
+    {
+      "id": "i22",
+      "kind": "den-ca-chep",
+      "x": 736.6,
+      "y": 610.1,
+      "z": 1,
+      "scale": 0.964
+    },
+    {
+      "id": "i23",
+      "kind": "mat-na",
+      "x": 393.3,
+      "y": 668.7,
+      "z": 1,
+      "scale": 1.042
+    }
+  ],
+  "covers": [
+    {
+      "top": "i3",
+      "bottom": "i15"
+    },
+    {
+      "top": "i7",
+      "bottom": "i15"
+    },
+    {
+      "top": "i20",
+      "bottom": "i15"
+    },
+    {
+      "top": "i16",
+      "bottom": "i15"
+    },
+    {
+      "top": "i5",
+      "bottom": "i13"
+    },
+    {
+      "top": "i9",
+      "bottom": "i13"
+    },
+    {
+      "top": "i16",
+      "bottom": "i13"
+    },
+    {
+      "top": "i9",
+      "bottom": "i5"
+    },
+    {
+      "top": "i0",
+      "bottom": "i5"
+    },
+    {
+      "top": "i19",
+      "bottom": "i5"
+    },
+    {
+      "top": "i7",
+      "bottom": "i9"
+    },
+    {
+      "top": "i16",
+      "bottom": "i9"
+    },
+    {
+      "top": "i19",
+      "bottom": "i9"
+    },
+    {
+      "top": "i1",
+      "bottom": "i4"
+    },
+    {
+      "top": "i17",
+      "bottom": "i4"
+    },
+    {
+      "top": "i10",
+      "bottom": "i3"
+    },
+    {
+      "top": "i7",
+      "bottom": "i3"
+    },
+    {
+      "top": "i6",
+      "bottom": "i3"
+    },
+    {
+      "top": "i20",
+      "bottom": "i3"
+    },
+    {
+      "top": "i16",
+      "bottom": "i3"
+    },
+    {
+      "top": "i23",
+      "bottom": "i3"
+    },
+    {
+      "top": "i14",
+      "bottom": "i11"
+    },
+    {
+      "top": "i0",
+      "bottom": "i11"
+    },
+    {
+      "top": "i22",
+      "bottom": "i11"
+    },
+    {
+      "top": "i1",
+      "bottom": "i10"
+    },
+    {
+      "top": "i6",
+      "bottom": "i10"
+    },
+    {
+      "top": "i20",
+      "bottom": "i10"
+    },
+    {
+      "top": "i23",
+      "bottom": "i10"
+    },
+    {
+      "top": "i0",
+      "bottom": "i14"
+    },
+    {
+      "top": "i22",
+      "bottom": "i14"
+    },
+    {
+      "top": "i16",
+      "bottom": "i7"
+    },
+    {
+      "top": "i21",
+      "bottom": "i7"
+    },
+    {
+      "top": "i6",
+      "bottom": "i1"
+    },
+    {
+      "top": "i23",
+      "bottom": "i1"
+    },
+    {
+      "top": "i19",
+      "bottom": "i0"
+    },
+    {
+      "top": "i12",
+      "bottom": "i6"
+    },
+    {
+      "top": "i23",
+      "bottom": "i6"
+    },
+    {
+      "top": "i21",
+      "bottom": "i6"
+    },
+    {
+      "top": "i8",
+      "bottom": "i2"
+    },
+    {
+      "top": "i12",
+      "bottom": "i2"
+    },
+    {
+      "top": "i21",
+      "bottom": "i2"
+    },
+    {
+      "top": "i18",
+      "bottom": "i2"
+    },
+    {
+      "top": "i12",
+      "bottom": "i8"
+    },
+    {
+      "top": "i18",
+      "bottom": "i8"
+    },
+    {
+      "top": "i23",
+      "bottom": "i12"
+    },
+    {
+      "top": "i21",
+      "bottom": "i12"
+    },
+    {
+      "top": "i18",
+      "bottom": "i12"
+    },
+    {
+      "top": "i21",
+      "bottom": "i23"
+    },
+    {
+      "top": "i18",
+      "bottom": "i21"
+    }
+  ],
+  "traySize": 7,
+  "target": 0.486,
+  "metrics": {
+    "solutionLength": 24,
+    "maxTray": 5,
+    "nearFullSteps": 0,
+    "backtracks": 0,
+    "lossRate": 0.1875
+  }
+}

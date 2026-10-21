@@ -1,0 +1,438 @@
+{
+  "id": "cho-dem-04",
+  "chapter": "cho-dem",
+  "seed": "cho-dem-04",
+  "items": [
+    {
+      "id": "i0",
+      "kind": "bap-nuong",
+      "x": 272,
+      "y": 506.6,
+      "z": 0,
+      "scale": 1.032
+    },
+    {
+      "id": "i1",
+      "kind": "banh-trang-nuong",
+      "x": 581.1,
+      "y": 637.6,
+      "z": 0,
+      "scale": 1.029
+    },
+    {
+      "id": "i2",
+      "kind": "nuoc-mia",
+      "x": 404.9,
+      "y": 517.1,
+      "z": 0,
+      "scale": 0.953
+    },
+    {
+      "id": "i3",
+      "kind": "muc-kho",
+      "x": 626.1,
+      "y": 499.8,
+      "z": 0,
+      "scale": 0.978
+    },
+    {
+      "id": "i4",
+      "kind": "banh-trang-nuong",
+      "x": 514.8,
+      "y": 486.6,
+      "z": 0,
+      "scale": 0.962
+    },
+    {
+      "id": "i5",
+      "kind": "bap-nuong",
+      "x": 380.7,
+      "y": 619.9,
+      "z": 0,
+      "scale": 0.983
+    },
+    {
+      "id": "i6",
+      "kind": "xien-nuong",
+      "x": 428.4,
+      "y": 710.5,
+      "z": 0,
+      "scale": 1.009
+    },
+    {
+      "id": "i7",
+      "kind": "nuoc-mia",
+      "x": 776.9,
+      "y": 567.2,
+      "z": 0,
+      "scale": 1.015
+    },
+    {
+      "id": "i8",
+      "kind": "muc-kho",
+      "x": 691.6,
+      "y": 638.8,
+      "z": 0,
+      "scale": 0.928
+    },
+    {
+      "id": "i9",
+      "kind": "nuoc-mia",
+      "x": 273.2,
+      "y": 577.2,
+      "z": 0,
+      "scale": 0.923
+    },
+    {
+      "id": "i10",
+      "kind": "xien-nuong",
+      "x": 468.5,
+      "y": 580.7,
+      "z": 0,
+      "scale": 0.951
+    },
+    {
+      "id": "i11",
+      "kind": "banh-trang-nuong",
+      "x": 734.6,
+      "y": 523.3,
+      "z": 0,
+      "scale": 0.956
+    },
+    {
+      "id": "i12",
+      "kind": "banh-trang-nuong",
+      "x": 223.8,
+      "y": 566.2,
+      "z": 0,
+      "scale": 1
+    },
+    {
+      "id": "i13",
+      "kind": "bap-nuong",
+      "x": 530.8,
+      "y": 759.5,
+      "z": 0,
+      "scale": 0.941
+    },
+    {
+      "id": "i14",
+      "kind": "bap-nuong",
+      "x": 576.8,
+      "y": 591.1,
+      "z": 0,
+      "scale": 1.018
+    },
+    {
+      "id": "i15",
+      "kind": "bap-nuong",
+      "x": 447.7,
+      "y": 500.3,
+      "z": 1,
+      "scale": 0.981
+    },
+    {
+      "id": "i16",
+      "kind": "xien-nuong",
+      "x": 401.6,
+      "y": 655.9,
+      "z": 1,
+      "scale": 0.954
+    },
+    {
+      "id": "i17",
+      "kind": "bap-nuong",
+      "x": 548.1,
+      "y": 685.6,
+      "z": 1,
+      "scale": 1.063
+    },
+    {
+      "id": "i18",
+      "kind": "nuoc-mia",
+      "x": 576.4,
+      "y": 556.1,
+      "z": 1,
+      "scale": 0.945
+    },
+    {
+      "id": "i19",
+      "kind": "xien-nuong",
+      "x": 640.8,
+      "y": 480.9,
+      "z": 1,
+      "scale": 0.923
+    },
+    {
+      "id": "i20",
+      "kind": "xien-nuong",
+      "x": 199.7,
+      "y": 539.7,
+      "z": 1,
+      "scale": 0.956
+    },
+    {
+      "id": "i21",
+      "kind": "banh-trang-nuong",
+      "x": 702.8,
+      "y": 609.5,
+      "z": 1,
+      "scale": 0.965
+    },
+    {
+      "id": "i22",
+      "kind": "nuoc-mia",
+      "x": 322.2,
+      "y": 545,
+      "z": 1,
+      "scale": 1.013
+    },
+    {
+      "id": "i23",
+      "kind": "banh-trang-nuong",
+      "x": 422.4,
+      "y": 712.5,
+      "z": 1,
+      "scale": 1.078
+    },
+    {
+      "id": "i24",
+      "kind": "muc-kho",
+      "x": 778.8,
+      "y": 564.8,
+      "z": 1,
+      "scale": 0.943
+    },
+    {
+      "id": "i25",
+      "kind": "xien-nuong",
+      "x": 510.4,
+      "y": 586.2,
+      "z": 2,
+      "scale": 1.025
+    },
+    {
+      "id": "i26",
+      "kind": "muc-kho",
+      "x": 783.6,
+      "y": 560,
+      "z": 2,
+      "scale": 1.039
+    },
+    {
+      "id": "i27",
+      "kind": "muc-kho",
+      "x": 654.5,
+      "y": 541.1,
+      "z": 2,
+      "scale": 0.967
+    },
+    {
+      "id": "i28",
+      "kind": "muc-kho",
+      "x": 345.6,
+      "y": 607.5,
+      "z": 2,
+      "scale": 1.002
+    },
+    {
+      "id": "i29",
+      "kind": "nuoc-mia",
+      "x": 528.2,
+      "y": 687.2,
+      "z": 2,
+      "scale": 0.96
+    }
+  ],
+  "covers": [
+    {
+      "top": "i15",
+      "bottom": "i4"
+    },
+    {
+      "top": "i18",
+      "bottom": "i4"
+    },
+    {
+      "top": "i19",
+      "bottom": "i3"
+    },
+    {
+      "top": "i18",
+      "bottom": "i3"
+    },
+    {
+      "top": "i27",
+      "bottom": "i3"
+    },
+    {
+      "top": "i12",
+      "bottom": "i0"
+    },
+    {
+      "top": "i9",
+      "bottom": "i0"
+    },
+    {
+      "top": "i20",
+      "bottom": "i0"
+    },
+    {
+      "top": "i22",
+      "bottom": "i0"
+    },
+    {
+      "top": "i15",
+      "bottom": "i2"
+    },
+    {
+      "top": "i7",
+      "bottom": "i11"
+    },
+    {
+      "top": "i24",
+      "bottom": "i11"
+    },
+    {
+      "top": "i27",
+      "bottom": "i11"
+    },
+    {
+      "top": "i26",
+      "bottom": "i11"
+    },
+    {
+      "top": "i9",
+      "bottom": "i12"
+    },
+    {
+      "top": "i20",
+      "bottom": "i12"
+    },
+    {
+      "top": "i24",
+      "bottom": "i7"
+    },
+    {
+      "top": "i21",
+      "bottom": "i7"
+    },
+    {
+      "top": "i26",
+      "bottom": "i7"
+    },
+    {
+      "top": "i22",
+      "bottom": "i9"
+    },
+    {
+      "top": "i25",
+      "bottom": "i10"
+    },
+    {
+      "top": "i1",
+      "bottom": "i14"
+    },
+    {
+      "top": "i18",
+      "bottom": "i14"
+    },
+    {
+      "top": "i27",
+      "bottom": "i14"
+    },
+    {
+      "top": "i25",
+      "bottom": "i14"
+    },
+    {
+      "top": "i16",
+      "bottom": "i5"
+    },
+    {
+      "top": "i28",
+      "bottom": "i5"
+    },
+    {
+      "top": "i21",
+      "bottom": "i8"
+    },
+    {
+      "top": "i18",
+      "bottom": "i1"
+    },
+    {
+      "top": "i17",
+      "bottom": "i1"
+    },
+    {
+      "top": "i29",
+      "bottom": "i1"
+    },
+    {
+      "top": "i16",
+      "bottom": "i6"
+    },
+    {
+      "top": "i23",
+      "bottom": "i6"
+    },
+    {
+      "top": "i17",
+      "bottom": "i13"
+    },
+    {
+      "top": "i29",
+      "bottom": "i13"
+    },
+    {
+      "top": "i18",
+      "bottom": "i19"
+    },
+    {
+      "top": "i27",
+      "bottom": "i19"
+    },
+    {
+      "top": "i28",
+      "bottom": "i22"
+    },
+    {
+      "top": "i27",
+      "bottom": "i18"
+    },
+    {
+      "top": "i25",
+      "bottom": "i18"
+    },
+    {
+      "top": "i21",
+      "bottom": "i24"
+    },
+    {
+      "top": "i26",
+      "bottom": "i24"
+    },
+    {
+      "top": "i26",
+      "bottom": "i21"
+    },
+    {
+      "top": "i23",
+      "bottom": "i16"
+    },
+    {
+      "top": "i29",
+      "bottom": "i17"
+    }
+  ],
+  "traySize": 7,
+  "target": 0.633,
+  "metrics": {
+    "solutionLength": 30,
+    "maxTray": 5,
+    "nearFullSteps": 0,
+    "backtracks": 0,
+    "lossRate": 0.3625
+  }
+}

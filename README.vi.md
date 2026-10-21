@@ -25,9 +25,11 @@
 ## Cách chơi
 
 <p align="center">
-  <img src="docs/media/gifs/play-level.gif" alt="Chạm món trên sa bàn, món bay vào giỏ và bộ ba được xoá" width="300">
-  &nbsp;&nbsp;
-  <img src="docs/media/gifs/win.gif" alt="Bảng thắng: ba ngôi sao bật lên, confetti rơi" width="300">
+  <img src="docs/media/gifs/play-level.gif" alt="Chạm món trên sa bàn, món bay vào giỏ và bộ ba được xoá" width="260">
+  &nbsp;
+  <img src="docs/media/gifs/win.gif" alt="Bảng thắng: ba ngôi sao bật lên, confetti rơi" width="260">
+  &nbsp;
+  <img src="docs/media/gifs/map-scroll.gif" alt="Cuộn bản đồ qua sáu khu phố" width="260">
 </p>
 
 - Chạm vào một món **không bị món nào che**. Món nhấc lên, bay vào **giỏ 7 ô** và xếp cạnh món cùng loại.

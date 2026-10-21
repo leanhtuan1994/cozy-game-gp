@@ -25,9 +25,11 @@
 ## Gameplay
 
 <p align="center">
-  <img src="docs/media/gifs/play-level.gif" alt="Tapping items on the diorama; they fly into the tray and matching triples clear" width="300">
-  &nbsp;&nbsp;
-  <img src="docs/media/gifs/win.gif" alt="The win sheet: three stars pop in while confetti falls" width="300">
+  <img src="docs/media/gifs/play-level.gif" alt="Tapping items on the diorama; they fly into the tray and matching triples clear" width="260">
+  &nbsp;
+  <img src="docs/media/gifs/win.gif" alt="The win sheet: three stars pop in while confetti falls" width="260">
+  &nbsp;
+  <img src="docs/media/gifs/map-scroll.gif" alt="Scrolling the map through the six districts" width="260">
 </p>
 
 - Tap an item that nothing else covers. It lifts off the diorama, flies into the **7-slot tray** and lines up next to its kind.
